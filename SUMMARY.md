@@ -8,4 +8,5 @@
    * Version 1.2
 * Features
    * Address Book
+   * Billing
 
