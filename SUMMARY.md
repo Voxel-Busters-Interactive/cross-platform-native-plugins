@@ -3,5 +3,5 @@
 * [Introduction](README.md)
    * Setup
    * Integration
-* [First Chapter](chapter1.md)
+* [Upgrade Guide](chapter1.md)
 
