@@ -6,7 +6,7 @@
 * [Upgrade Guide](chapter1.md)
    * Version 1.3
    * Version 1.2
-* Features
+* [Features](features.md)
    * Address Book
    * Billing
 
