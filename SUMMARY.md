@@ -8,5 +8,5 @@
    * Version 1.2
 * [Features](features.md)
    * [Address Book](address_book.md)
-   * Billing
+   * [Billing](billing.md)
 
