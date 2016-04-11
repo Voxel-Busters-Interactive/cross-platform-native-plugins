@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "tabs"
+        "tabs",
+        "disqus"
     ],
     "pluginsConfig": {}
 }
