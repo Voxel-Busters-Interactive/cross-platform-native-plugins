@@ -3,7 +3,8 @@
         "tabs",
         "disqus",
         "exercises",
-        "search-pro"
+        "search-pro",
+        "codesnippet"
     ],
     "pluginsConfig": {}
 }
