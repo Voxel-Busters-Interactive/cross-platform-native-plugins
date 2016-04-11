@@ -6,7 +6,8 @@
         "search-pro",
         "codesnippet",
         "flowchart",
-        "google_analytics"
+        "google_analytics",
+        "sections"
     ],
     "pluginsConfig": {}
 }
