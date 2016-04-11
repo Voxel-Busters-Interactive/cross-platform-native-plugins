@@ -4,7 +4,8 @@
         "disqus",
         "exercises",
         "search-pro",
-        "codesnippet"
+        "codesnippet",
+        "flowchart"
     ],
     "pluginsConfig": {}
 }
