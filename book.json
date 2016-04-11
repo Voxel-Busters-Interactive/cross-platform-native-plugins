@@ -2,7 +2,8 @@
     "plugins": [
         "tabs",
         "disqus",
-        "exercises"
+        "exercises",
+        "search-pro"
     ],
     "pluginsConfig": {}
 }
