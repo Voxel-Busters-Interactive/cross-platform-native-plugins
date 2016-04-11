@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * Setup
+   * [Setup](setup.md)
    * Integration
 * [Upgrade Guide](chapter1.md)
    * Version 1.3
