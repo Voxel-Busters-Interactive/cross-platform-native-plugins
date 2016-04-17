@@ -16,4 +16,9 @@
             "shortName": "native-plugins-for-unity"
       }
     }
+    
+    "variables": 
+    {
+        "myVariable": "Hello World"
+    }
 }
