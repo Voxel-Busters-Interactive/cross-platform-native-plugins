@@ -9,5 +9,11 @@
         "google_analytics",
         "sectionx"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": 
+    {
+      "disqus": 
+      {
+            "shortName": "native-plugins-for-unity"
+      }
+    }
 }
