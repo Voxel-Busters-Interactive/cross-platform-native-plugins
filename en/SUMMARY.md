@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
    * [Setup](setupmd.md)
+       * Address Book
    * Integration
 * [Upgrade Guide](chapter1.md)
    * Version 1.3
