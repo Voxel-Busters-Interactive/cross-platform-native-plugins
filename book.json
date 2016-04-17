@@ -12,13 +12,6 @@
         "google_analytics",
         "sectionx"
     ],
-    "pluginsConfig": 
-    {
-      "disqus": 
-      {
-            "shortName": "native-plugins-for-unity"
-      }
-    }
     
     "variables": 
     {
