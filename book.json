@@ -19,6 +19,11 @@
     
     "variables": 
     {
-        "myVariable": "Hello World"
+        "plugin"
+         {
+           "name":"Cross Platform Native Plugins",
+           "settings" : "NPSettings"
+        }
+
     }
 }
