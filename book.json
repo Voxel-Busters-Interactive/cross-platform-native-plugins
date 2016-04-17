@@ -1,4 +1,7 @@
 {
+
+   "title" : "Cross Platform Native Plugins for Unity"
+  
     "plugins": [
         "tabs",
         "disqus",
