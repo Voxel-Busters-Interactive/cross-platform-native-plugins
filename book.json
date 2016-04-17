@@ -22,11 +22,17 @@
     
     "variables": 
     {
-        "plugin"
+        "plugin":
          {
            "name":"Cross Platform Native Plugins",
            "settings" : "NPSettings"
-        }
+         }
+         
+         "api":
+         {
+         }
+        
+        
 
     }
 }
