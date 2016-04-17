@@ -1,7 +1,7 @@
 # Introduction
 ---
 
-{book.plugins.name}
+{{book.plugin.name}}
 
 
 
